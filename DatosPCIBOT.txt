@@ -1,0 +1,2504 @@
+
+ProfileName=Angel
+
+Intent saludo (confidence 1) from query text "hola"
+
+ProfileName=Angel
+
+Intent Default_Fallback_Intent (confidence 0) from query text "orale 😃"
+
+CompletionChoice(text= si te interesa puedes intentar escribir: ¿Cuándo obtengo los resultados de admisión?, index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=Arturo+Yee
+
+Intent saludo (confidence 1) from query text "Hola"
+
+ProfileName=Arturo+Yee
+
+Intent procesoInscripcion (confidence 0.865) from query text "Inscripciones"
+
+ProfileName=Osiris+Ch%C3%A1vez
+
+Intent planEstudios (confidence 0.524) from query text "Información del doctorado"
+
+Intent Parameters: {PPROGRAMA="doctorado"}
+
+Intent procesoInscripcion (confidence 0.613) from query text "Fecha de inscripción del doctorado"
+
+ProfileName=Evangelina+Avila
+
+Intent saludo (confidence 1) from query text "buen dia"
+
+ProfileName=Evangelina+Avila
+
+Intent informacionGeneral (confidence 0.46) from query text "quiero solicitar un  kardex"
+
+ProfileName=Evangelina+Avila
+
+Intent inicioActividades (confidence 0.684) from query text "fecha de inicio de actividades"
+
+ProfileName=Osiris+Ch%C3%A1vez
+
+Intent tienenBeca (confidence 0.815) from query text "Información de la beca"
+
+ProfileName=Evangelina+Avila
+
+Intent informacionAcercaDePosgrado (confidence 1) from query text "que es el posgrado en ciencias de la informacion"
+
+ProfileName=Osiris+Ch%C3%A1vez
+
+Intent informacionGeneral (confidence 0.472) from query text "Información de Egresados"
+
+ProfileName=Osiris+Ch%C3%A1vez
+
+Intent perfilEgreso (confidence 0.599) from query text "Perfil de egreso de un alumno de doctorado"
+
+Intent Parameters: {PPROGRAMA="doctorado"}
+
+ProfileName=Osiris+Ch%C3%A1vez
+
+Intent procesoInscripcion (confidence 0.667) from query text "Requisitos de inscripción"
+
+Intent requisitos (confidence 0.595) from query text "Requisitos"
+
+Intent Parameters: {PPROGRAMA=""}
+
+ProfileName=Osiris+Ch%C3%A1vez
+
+Intent Default_Fallback_Intent (confidence 0) from query text "Como llegó a la escuela"
+
+CompletionChoice(text=Si te interesa puedes intentar escribir: Información sobre movilidad, index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=Osiris+Ch%C3%A1vez
+
+Intent direccion (confidence 0.581) from query text "Dirección"
+
+ProfileName=Osiris+Ch%C3%A1vez
+
+Intent Default_Fallback_Intent (confidence 0) from query text "Ubicación"
+
+CompletionChoice(text=Si quieres puedes intentar escribir: Información sobre los docentes, index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=Osiris+Ch%C3%A1vez
+
+Intent direccion (confidence 0.574) from query text "Como esta el clima?"
+
+ProfileName:=4Osiris+Ch%C3%A1vez
+
+Intent fechaCursoPropedeuticoExamenConocimientos (confidence 0.372) from query text "Hay tienditas?"
+
+ProfileName=Osiris+Ch%C3%A1vez
+
+Intent informacionGeneral (confidence 0.421) from query text "Información de la escuela"
+
+ProfileName=Osiris+Ch%C3%A1vez
+
+Intent informacionAcercaDePosgrado (confidence 1) from query text "Que es el posgrado en ciencias de la información?"
+
+ProfileName=Osiris+Ch%C3%A1vez
+
+Intent lineasInvestigacion (confidence 0.601) from query text "Lineas de investigación"
+
+ProfileName=Evan17:10g:4elina+Avila
+
+Intent duracionPosgrado (confidence 0.627) from query text "cuanto dura el posgrafo"
+
+ProfileName=Evangelina+Avila
+
+Intent resultadosAdmision (confidence 0.787) from query text "cuando obtengo los resultados"
+
+ProfileName=Evangelina+Avila
+
+Intent perfilEgreso (confidence 0.403) from query text "cual es el perfil"
+
+Intent Parameters: {PPROGRAMA=""}
+
+ProfileName=Osiris+Ch%C3%A1vez
+
+Intent Default_Fallback_Intent (confidence 0) from query text "Instalaciones"
+
+CompletionChoice(text=Si te interesa puedes intentar escribir: Información sobre movilidad, index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=Osiris+Ch%C3%A1vez
+
+Intent informacionMovilidad (confidence 1) from query text "Información sobre movilidad"
+
+ProfileName=Angel
+
+Intent saludo (confidence 1) from query text "hola"
+
+ProfileName=Angel
+
+Intent informacionMovilidad (confidence 1) from query text "informacion sobre movilidad"
+
+ProfileName=Angel
+
+Intent informacionMovilidad (confidence 0.797) from query text "movilidad"
+
+Intent saludo (confidence 1) from query text "Hola"
+
+ProfileName=Carolina
+
+Intent procesoInscripcion (confidence 0.81) from query text "Inscripción"
+
+ProfileName=Carolina
+
+Intent Default_Fallback_Intent (confidence 0) from query text "Perro"
+
+CompletionChoice(text=Si te interesa puedes intentar escribir:Información sobre perros, index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=Carolina
+
+Intent Default_Fallback_Intent (confidence 0) from query text "Información sobre perros"
+
+CompletionChoice(text=Si te interesa puedes intentar escribir: Informativa sobre el programa de perros, index=0, logprobs=null, finish_reason=stop)
+
+Intent planEstudios (confidence 0.689) from query text "materias de doctorado"
+
+Intent Parameters: {PPROGRAMA="doctorado"}
+
+ProfileName=Angel
+
+Intent saludo (confidence 1) from query text "hola"
+
+ProfileName=Angel
+
+Intent informacionMovilidad (confidence 1) from query text "informacion sobre movilidad"
+
+Intent informacionMovilidad (confidence 1) from query text "Información sobre movilidad"
+
+ProfileName=Osiris+Ch%C3%A1vez
+
+Intent Default_Fallback_Intent (confidence 0) from query text "Adios"
+
+CompletionChoice(text=Si te quedas con ganas de hablar sobre el tema, puedes intentar escribir una recomendación en la que te detalles un poco mas sobre el programa de maestría en el que estás interesado, o bien, puedes intentar encontrar una entrevista con un docente para saber mejor sobre el mismo, index=0, logprobs=null, finish_reason=length)
+
+ProfileName=Angel
+
+Intent saludo (confidence 1) from query text "Hola"
+
+ProfileName=Osiris+Ch%C3%A1vez
+
+Intent saludo (confidence 0.602) from query text "Que rollo"
+
+ProfileName=Osiris+Ch%C3%A1vez
+
+Intent Default_Fallback_Intent (confidence 0) from query text "Quieres adoptar un gato?"
+
+CompletionChoice(text= Si te interesa puedes intentar escribir: Información sobre movilidad, index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=Osiris+Ch%C3%A1vez
+
+ProfileName=Osiris+Ch%C3%A1vez
+
+Intent saludo (confidence 1) from query text "Hola"
+
+ProfileName=Osiris+Ch%C3%A1vez
+
+Intent inicioActividades (confidence 0.424) from query text "Información sobre alumnos"
+
+ProfileName=Osiris+Ch%C3%A1vez
+
+Intent Default_Fallback_Intent (confidence 0) from query text "Adios"
+
+CompletionChoice(text=Si te quedas con ganas de hablar sobre el tema, puedes intentar escribir una recomendación en la que te detalles un poco mas sobre el programa de maestría en el que estás interesado, o bien, puedes intentar encontrar una entrevista con un docente para saber mejor sobre el mismo, index=0, logprobs=null, finish_reason=length)
+
+Intent procesoInscripcion (confidence 0.648) from query text "Cuanto cuesta la inscripción"
+
+ProfileName  - Un=Elizankndro+own q%F0%9Fu%A4%Aer0
+
+Intent Default_Fallback_Intent (confidence 0) from query text "1"
+
+CompletionChoice(text=, index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=Angel
+
+Intent saludo (confidence 1) from query text "Hola"
+
+ProfileName=Angel
+
+Intent saludo (confidence 1) from query text "hola"
+
+ProfileName=Angel
+
+Intent saludo (confidence 1) from query text "hola"
+
+ProfileName=Angel
+
+Intent informacionGeneral (confidence 0.326) from query text "informacion de perros"
+
+ProfileName=Angel
+
+Intent Default_Fallback_Intent (confidence 0) from query text "las quesadillas llevan queso?"
+
+CompletionChoice(text= si te interesa puedes intentar escribir: Datos de Contacto, index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=Angel
+
+Intent datosDeContacto (confidence 0.367) from query text "hora de comer"
+
+ProfileName=Angel
+
+Intent Default_Fallback_Intent (confidence 0) from query text "no tengo dinero"
+
+CompletionChoice(text=, index=0, logprobs=null, finish_reason=stop)
+
+Intent direccion (confidence 0.615) from query text "esta muy caro?"
+
+ProfileName=Angel
+
+Intent quienEres (confidence 0.575) from query text "quien es el director?"
+
+ProfileName=Angel
+
+Intent direccion (confidence 0.615) from query text "esta muy lejos?"
+
+ProfileName=Angel
+
+Intent Default_Fallback_Intent (confidence 0) from query text "queda muy lejos de mi casa?"
+
+CompletionChoice(text= si te interesa puedes intentar escribir: ¿Dónde están ubicados?, index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=Angel
+
+Intent Default_Fallback_Intent (confidence 0) from query text "i dont know what to do"
+
+CompletionChoice(text=, index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=Denise+Zamora
+
+Intent Default_Fallback_Intent (confidence 0) from query text "."
+
+CompletionChoice(text=, index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=Frida+Garc%C3%ADa
+
+Intent saludo (confidence 1) from query text "Hola"
+
+ProfileName=Frida+Garc%C3%ADa
+
+Intent Default_Fallback_Intent (confidence 0) from query text "Pike engaño a Shakira?"
+
+CompletionChoice(text=, index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=Frida+Garc%C3%ADa
+
+Intent Default_Fallback_Intent (confidence 0) from query text "En que puedes ayudarme?"
+
+CompletionChoice(text=Si quieres puedes intentar escribir: Información sobre la modalidad de los exámenes, index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=Frida+Garc%C3%ADa
+
+Intent guiasExamen (confidence 0.418) from query text "Que modalidades tienes?"
+
+ProfileName=Frida+Garc%C3%ADa
+
+ProfileName=Angel
+
+Intent ofrecerAyuda (confidence 1) from query text "Gracias!"
+
+Intent saludo (confidence 1) from query text "hola"
+
+ProfileName=Frida+Garc%C3%ADa
+
+Intent perfilEgreso (confidence 0.382) from query text "Cuanto vale la maestría?"
+
+Intent Parameters: {PPROGRAMA="maestria"}
+
+ProfileName=Frida+Garc%C3%ADa
+
+Intent Default_Fallback_Intent (confidence 0) from query text "Gracias Angel"
+
+CompletionChoice(text=No hay problema, ¿quieres que te muestre cómo funcionan estas listas?, index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=Frida+Garc%C3%ADa
+
+Intent ofrecerAyuda (confidence 1) from query text "Ok"
+
+Intent saludo (confidence 1) from query text "Hola"
+
+ProfileName=Denise+Zamora
+
+Intent informacionGeneral (confidence 0.643) from query text "más información"
+
+ProfileName=Denise+Zamora
+
+Intent duracionPosgrado (confidence 0.602) from query text "¿Cuánto dura el post grado?"
+
+ProfileName=Denise+Zamora
+
+Intent procesoInscripcion (confidence 1) from query text "¿Como puedo inscribirme?"
+
+ProfileName=%E2%9C%A8Sheccid+Morales
+
+Intent saludo (confidence 1) from query text "Hola"
+
+ProfileName=%E2%9C%A8Sheccid+Morales
+
+Intent costosProcesosBecas (confidence 0.729) from query text "Que costos tiene?"
+
+ProfileName=%E2%9C%A8Sheccid+Morales
+
+Intent duracionPosgrado (confidence 0.678) from query text "Duración del posgrado"
+
+ProfileName=%E2%9C%A8Sheccid+Morales
+
+Intent inicioActividades (confidence 0.584) from query text "Cuando inicia?"
+
+ProfileName=%E2%9C%A8Sheccid+Morales
+
+Intent requisitos (confidence 0.571) from query text "Que requisitos piden?"
+
+Intent Parameters: {PPROGRAMA=""}
+
+ProfileName=%E2%9C%A8Sheccid+Morales
+
+Intent informacionExamenes (confidence 0.372) from query text "Que nivel educativo debo tener concluido?"
+
+ProfileName=%E2%9C%A8Sheccid+Morales
+
+Intent modalidadPosgrado (confidence 0.583) from query text "Es en linea o presencial?"
+
+ProfileName=%E2%9C%A8Sheccid+Morales
+
+Intent direccion (confidence 0.448) from query text "En que ciudad?"
+
+ProfileName=Denise+Zamora
+
+Intent titulacion (confidence 0.321) from query text "¿Cuál es el precio?"
+
+ProfileName=Genesis%E2%9C%A8%F0%9F%8C%BB
+
+Intent saludo (confidence 1) from query text "Hola"
+
+ProfileName=Genesis%E2%9C%A8%F0%9F%8C9%BB
+
+Intent costosProcesosBecas (confidence 0.544) from query text "Costo"
+
+ProfileName=Genesis%E2%9C%A8%F0%9F%8C%BB
+
+Intent fechaRecepcionDocumentos (confidence 0.445) from query text "Fecha"
+
+ProfileName=Genesis%E2%9C%A8%F0%9F%8C%BB
+
+Intent Default_Fallback_Intent (confidence 0) from query text "Lugar"
+
+CompletionChoice(text=, index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=Genesis%E2%9C%A8%F0%9F%8C%BB
+
+Intent Default_Fallback_Intent (confidence 0) from query text "Hora"
+
+CompletionChoice(text=, index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=Genesis%E2%9C%A8%F0%9F%8C%BB
+
+Intent tienenBeca (confidence 0.918) from query text "Becas"
+
+ProfileName=Angel
+
+Intent Default_Fallback_Intent (confidence 0) from query text "precio"
+
+CompletionChoice(text=, index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=Angel
+
+Intent saludo (confidence 1) from query text "hola"
+
+ProfileName=Angel
+
+Intent Default_Fallback_Intent (confidence 0) from query text "Pokémon"
+
+CompletionChoice(text= lo siento no tengo una sugerencia para mostrar, index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=Angel
+
+Intent Default_Fallback_Intent (confidence 0) from query text "Te gusta Pokémon?"
+
+CompletionChoice(text= Si te interesa puedes intentar escribir: Datos de Contacto, index=0, logprobs=null, finish_reason=stop)
+
+Intent Default_Fallback_Intent (confidence 0) from query text "Las quesadillas llevan queso?"
+
+CompletionChoice(text=Si quieres puedes intentar escribir: Datos de Contacto, index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=Angel
+
+Intent modalidadExamenes (confidence 0.316) from query text "Metemos a la Andrea a casilla 3?"
+
+ProfileName=Angel
+
+Intent saludo (confidence 1) from query text "Hola"
+
+Intent Default_Fallback_Intent (confidence 0) from query text "Musica"
+
+CompletionChoice(text=, index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=Angel
+
+Intent informacionGeneral (confidence 0.397) from query text "Quiero escuchar musica"
+
+ProfileName=Angel
+
+Intent Default_Fallback_Intent (confidence 0) from query text "Escuchar música en Spotify"
+
+CompletionChoice(text= lo siento no tengo una sugerencia para mostrar, index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=Angel
+
+Intent titulacion (confidence 0.511) from query text "Me quieres?"
+
+ProfileName=Genesis%E2%9C%A8%F0%9F%8C%BB
+
+Intent ofrecerAyuda (confidence 1) from query text "Gracias"
+
+ProfileName=Angel
+
+Intent fechaPreinscripciones (confidence 0.402) from query text "Tengo miedo"
+
+Intent titulacion (confidence 0.511) from query text "Me abrazas?"
+
+ProfileName=Angel
+
+Intent Default_Fallback_Intent (confidence 0) from query text "Sabes tocar el piano?"
+
+CompletionChoice(text= si te interesa puedes intentar escribir: Información sobre movilidad, index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=Angel
+
+Intent saludo (confidence 1) from query text "hola"
+
+ProfileName=Angel
+
+Intent direccion (confidence 1) from query text "donde están ubicados?"
+
+ProfileName=Angel
+
+Intent ofrecerAyuda (confidence 1) from query text "gracias"
+
+ProfileName=Paulina+Victorica
+
+Intent saludo (confidence 1) from query text "Hola"
+
+ProfileName=Paulina+Victorica
+
+Intent informacionGeneral (confidence 1) from query text "Información"
+
+ProfileName=Paulina+Victo0rica
+
+Intent perfilEgreso (confidence 0.715) from query text "Perfil de egreso de un alumno de maestría"
+
+Intent Parameters: {PPROGRAMA="maestria"}
+
+ProfileName=Paulina+Victorica
+
+Intent inicioActividades (confidence 0.691) from query text "Fecha de inicio de actividades"
+
+ProfileName=Paulina+Victorica
+
+Intent duracionPosgrado (confidence 0.748) from query text "Cuanto tiempo dura"
+
+Intent costosProcesosBecas (confidence 0.489) from query text "Costo"
+
+ProfileName=Paulina+Victorica
+
+Intent costosProcesosBecas (confidence 1) from query text "Precio"
+
+ProfileName=Angel
+
+Intent perfilEgreso (confidence 0.37) from query text "修士�を�得�る����件�何���？"
+
+Intent Parameters: {PPROGRAMA=""}
+
+ProfileName=Angel
+
+Intent saludo (confidence 1) from query text "hola"
+
+ProfileName=Noel
+
+Intent procesoPreinscripcion (confidence 0.536) from query text "Qué pasó master?"
+
+ProfileName=Noel
+
+Intent Default_Fallback_Intent (confidence 0) from query text "Muéstrame la lista"
+
+Intent ofrecerAyuda (confidence 1) from query text "si"
+
+ProfileName=Noel
+
+Intent Default_Fallback_Intent (confidence 0) from query text "Mucho texto"
+
+CompletionChoice(text= si te interesa puedes intentar escribir: Cuál es el plan de estudios del programa de maestría, index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=Noel
+
+Intent planEstudios (confidence 0.526) from query text "Cuál es el plan de estudio de maestría"
+
+Intent Parameters: {PPROGRAMA="maestria"}
+
+ProfileName=Noel
+
+Intent Default_Fallback_Intent (confidence 0) from query text "a prro"
+
+CompletionChoice(text=, index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=Angel
+
+Intent saludo (confidence 1) from query text "hola"
+
+ProfileName=Eduardo+Morales
+
+Intent saludo (confidence 1) from query text "Hola"
+
+ProfileName=Eduardo+Morales
+
+Intent informacionAcercaDePosgrado (confidence 0.607) from query text "Quiero sabe qué son las ciencias de la información"
+
+ProfileName=Eduardo+Morales
+
+Intent informacionAcercaDePosgrado (confidence 0.35) from query text "Qué es la geomática?"
+
+ProfileName=Ed01:29:04.09u1 [pooardo+Morales
+
+Intent informacionAcercaDePosgrado (confidence 0.665) from query text "Dónde se aplica las ciencias de la información"
+
+ProfileName=Eduardo+Morales
+
+Intent direccion (confidence 0.572) from query text "Dónde está la UAS?"
+
+Intent direccion (confidence 0.491) from query text "Dónde está Culiacán?"
+
+ProfileName=Eduardo+Morales
+
+Intent Default_Fallback_Intent (confidence 0) from query text "Dónde"
+
+CompletionChoice(text=Lo siento no tengo una sugerencia para mostrar, index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=Eduardo+Morales
+
+Intent Default_Fallback_Intent (confidence 0) from query text "Quiénes son los estudiantes?"
+
+CompletionChoice(text=, index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=Eduardo+Morales
+
+Intent quienEres (confidence 0.685) from query text "Eres un bot?"
+
+Intent informacionAcercaDePosgrado (confidence 0.491) from query text "Qué es PCI?"
+
+ProfileName=Eduardo+Morales
+
+Intent quienEres (confidence 0.528) from query text "Quién te programó?"
+
+ProfileName=Eduardo+Morales
+
+Intent inicioActividades (confidence 0.409) from query text "Cómo se llama ese alumno?"
+
+ProfileName=Eduardo+Morales
+
+Intent Default_Fallback_Intent (confidence 0) from query text "Dónde?"
+
+CompletionChoice(text=Si quieres puedes intentar escribir: Datos de Contacto, index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=Eduardo+Morales
+
+Intent Default_Fallback_Intent (confidence 0) from query text "En qué lenguaje te programaron?"
+
+CompletionChoice(text=Si quieres puedes intentar escribir: Inglés, index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=Eduardo+Morales
+
+Intent informacionMovilidad (confidence 0.518) from query text "Cómo se puede programar un bot?"
+
+ProfileName=Eduardo+Morales
+
+Intent tienenBeca (confidence 0.81) from query text "Dónde puedo ir con la beca?"
+
+ProfileName=Eduardo+Morales
+
+Intent informacionAcercaDePosgrado (confidence 0.36) from query text "Qué es CONACYT?"
+
+ProfileName=Eduardo+Morales
+
+Intent inicioActividades (confidence 0.348) from query text "Cuál es el programa académico?"
+
+ProfileName=Eduardo+Morales
+
+Intent Default_Fallback_Intent (confidence 0) from query text "Arre"
+
+CompletionChoice(text= lo siento no tengo una sugerencia para mostrar, index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=Eduardo+Morales
+
+Intent ofrecerAyuda (confidence 1) from query text "Adiós"
+
+ProfileName=Angel
+
+Intent Default_Fallback_Intent (confidence 0) from query text "Where are you?"
+
+CompletionChoice(text=, index=0, logprobs=null, finish_reason=stop)
+
+Intent Default_Fallback_Intent (confidence 0) from query text "Where are the school?"
+
+CompletionChoice(text=, index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=Angel
+
+Intent Default_Fallback_Intent (confidence 0) from query text "When are the inscriptions?"
+
+CompletionChoice(text=If you are interested, you can try to write: Information about the teachers, index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=Angel
+
+Intent docentes (confidence 0.712) from query text "Information about the teachers"
+
+ProfileName=Alejandra+Bernal
+
+Intent saludo (confidence 1) from query text "Hola"
+
+ProfileName=Alejandra+Bernal
+
+Intent quienEres (confidence 0.337) from query text "Qué hora es ?"
+
+Intent planEstudios (confidence 0.699) from query text "Cual es el plan de estudios ?"
+
+Intent Parameters: {PPROGRAMA=""}
+
+ProfileName=Alejandra+Bernal
+
+Intent procesoInscripcion (confidence 1) from query text "Cuando son las inscripciones?"
+
+ProfileName=Alejandra+Bernal
+
+Intent ofrecerAyuda (confidence 1) from query text "Gracias"
+
+ProfileName=Angel
+
+Intent saludo (confidence 1) from query text "hola"
+
+ProfileName=Angel
+
+Intent lineasInvestigacion (confidence 0.601) from query text "lineas de investigacion"
+
+ProfileName=Angel
+
+Intent Default_Fallback_Intent (confidence 0) from query text "quienes son los estudiantes"
+
+CompletionChoice(text=, index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=Angel
+
+Intent saludo (confidence 1) from query text "hola"
+
+ProfileName=Silvia+Mancinas
+
+Intent Default_Fallback_Intent (confidence 0) from query text "Holw"
+
+CompletionChoice(text=, index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=Silvia+Mancinas
+
+Intent saludo (confidence 1) from query text "Hola"
+
+ProfileName=Silvia+Mancinas
+
+Intent procesoInscripcion (confidence 0.449) from query text "Quisiera saber que requisitos son los que solicitan para la inscripción al posgrado"
+
+ProfileName=Fernanda+SR%E2%9D%A4%E2%80%8D%F0%9F%94%A5%E2%9C%A8
+
+Intent saludo (confidence 1) from query text "Hola"
+
+ProfileName=Silvia+Mancinas
+
+Intent procesoInscripcion (confidence 0.531) from query text "Y para la inscripción que documentos piden?"
+
+ProfileName=Fernanda+SR%E2%9D%A4%E2%80%8D%F0%9F%94%A5%E2%9C%A8
+
+Intent Default_Fallback_Intent (confidence 0) from query text "De que trata tu proyecto de tesis?"
+
+CompletionChoice(text= si te interesa puedes intentar escribir: Información sobre las líneas de investigación, index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=Fernanda+SR%E2%9D%A4%E2%80%8D%F0%9F%94%A5%E2%9C%A8
+
+Intent lineasInvestigacion (confidence 0.644) from query text "Información sobre las líneas de investigación"
+
+Intent datosDeContacto (confidence 0.391) from query text "En donde me puedo preinscribir?"
+
+ProfileName=Silvia+Man1cinas
+
+Intent procesoInscripcion (confidence 0.462) from query text "Que documentos piden para la pre inscripción?"
+
+ProfileName=Silvia+Mancinas
+
+Intent fechaPreinscripciones (confidence 0.43) from query text "La preinscripción es en línea?"
+
+Intent ofrecerAyuda (confidence 1) from query text "Gracias"
+
+ProfileName=Fernanda+SR%E2%9D%A4%E2%80%8D%F0%9F%94%A5%E2%9C%A8
+
+Intent lineasInvestigacion (confidence 0.379) from query text "Y a que lleva esta investigación?"
+
+ProfileName=Fernanda+SR%E2%9D%A4%E2%80%8D%F0%9F%94%A5%E2%9C%A8
+
+Intent Default_Fallback_Intent (confidence 0) from query text "Interesante proyecto de investigación 🙌�"
+
+CompletionChoice(text=, index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=Fernanda+SR%E2%9D%A4%E2%80%8D%F0%9F%94%A5%E2%9C%A8
+
+Intent informacionGeneral (confidence 0.555) from query text "Información de su proyecto de investigación"
+
+ProfileName=Fernanda+SR%E2%9D%A4%E2%80%8D%F0%9F%94%A5%E2%9C%A8
+
+Intent duracionPosgrado (confidence 1) from query text "¿Cuánto tiempo dura el posgrado?"
+
+ProfileName=Fernanda+SR%E2%9D%A4%E2%80%8D%F0%9F%94%A5%E2%9C%A8
+
+Intent perfilEgreso (confidence 0.717) from query text "Perfil de egreso de un alumno de maestría"
+
+Intent Parameters: {PPROGRAMA="maestria"}
+
+ProfileName=Fernanda+SR%E2%9D%A4%E2%80%8D%F0%9F%94%A5%E2%9C%A8
+
+Intent inicioActividades (confidence 0.668) from query text "Fecha de inicio de las actividades"
+
+Intent ofrecerAyuda (confidence 0.68) from query text "Gracias por la información"
+
+Intent Default_Fallback_Intent (confidence 0) from query text "Listo"
+
+CompletionChoice(text=, index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=Fernanda+SR%E2%9D%A4%E2%80%8D%F0%9F%94%A5%E2%9C%A8
+
+Intent Default_Fallback_Intent (confidence 0) from query text "Por el momento sería todo"
+
+CompletionChoice(text=Si quieres puedes intentar escribir: Información sobre la modalidad de los exámenes, index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=Fernanda+SR%E2%9D%A4%E2%80%8D%F0%9F%94%A5%E2%9C%A8
+
+Intent ofrecerAyuda (confidence 0.788) from query text "Muchas gracias"
+
+ProfileName=Fernan-tda+SR%E2%9D%A4%E2%80%8D%F0%9F%94%A5%E2%9C%A8
+
+Intent fechaPreinscripciones (confidence 0.327) from query text "De nada, para servirle"
+
+Intent ofrecerAyuda (confidence 1) from query text "Gracias"
+
+ProfileName=Marco+Ocampos
+
+Intent saludo (confidence 1) from query text "Hola"
+
+ProfileName=Marco+Ocampos
+
+Intent procesoInscripcion (confidence 0.642) from query text "Cuándo empieza la inscripción al próximo ciclo de maestrías?"
+
+Intent perfilEgreso (confidence 0.4) from query text "Qué maestrias oferta la institución?"
+
+Intent Parameters: {PPROGRAMA="maestria"}
+
+Intent requisitos (confidence 0.774) from query text "Cuáles son los requisitos para entrar a una maestría?"
+
+Intent Parameters: {PPROGRAMA="maestria"}
+
+ProfileName=Marco+Ocampos
+
+Intent lineasInvestigacion (confidence 0.569) from query text "A qué líneas de investigación puedo optar?"
+
+ProfileName=Marco+Ocampos
+
+Intent duracionPosgrado (confidence 0.487) from query text "Cuántos años dura una maestría?"
+
+ProfileName=El+Zurich
+
+Intent Default_Fallback_Intent (confidence 0) from query text "Buenos días"
+
+CompletionChoice(text=Si quieres puedes intentar escribir: Información sobre la modalidad de los exámenes, index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=Marco+Ocampos
+
+Intent tienenBeca (confidence 0.84) from query text "Tienen becas de estudio?"
+
+Intent informacionMovilidad (confidence 0.432) from query text "Existe una opción de cursar una maestría en línea?"
+
+ProfileName=Marco+Ocampos
+
+Intent ofrecerAyuda (confidence 1) from query text "Gracias"
+
+ProfileName=Marco+Ocampos
+
+Intent saludo (confidence 1) from query text "Hola"
+
+Intent informacionBot (confidence 0.401) from query text "Te gustan los Doritos nacho?"
+
+ProfileName=Marco+Ocampos
+
+Intent ofrecerAyuda (confidence 1) from query text "Si"
+
+ProfileName=Cheetos
+
+Intent Default_Fallback_Intent (confidence 0) from query text "��"
+
+CompletionChoice(text= lo siento no tengo una sugerencia para mostrar, index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=Jesus+Plazola
+
+Intent saludo (confidence 1) from query text "hola"
+
+ProfileName=Jesus+Plazola
+
+Intent Default_Fallback_Intent (confidence 0) from query text "información sobre el posgrado"
+
+CompletionChoice(text=, index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=Jesus+Plazola
+
+Intent paraQueSirveElPosgrado (confidence 0.455) from query text "que se necesita para hacer un posgrado"
+
+ProfileName=Jesus+Herrera+%E2%9C%8C%F0%9F%8F%BB
+
+Intent saludo (confidence 1) from query text "Hola"
+
+ProfileName=Jesus+Herrera+%E2%9C%8C%F0%9F%8F%BB
+
+Intent paraQueSirveElPosgrado (confidence 0.367) from query text "Porque te intereso subir de nivel con un posgrado"
+
+ProfileName=Jesus+Herrera+%E2%9C%8C%F0%9F%8F%BB
+
+Intent Default_Fallback_Intent (confidence 0) from query text "ª"
+
+CompletionChoice(text=, index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=Jesus+Plazola
+
+Intent duracionPosgrado (confidence 1) from query text "cuanto tiempo dura el posgrado"
+
+ProfileName=Jesus+Herrera+%E2%9C%8C%F0%9F%8F%BB
+
+Intent modalidadPosgrado (confidence 0.436) from query text "Me recomiendas estudiar un posgrado, y porque?"
+
+ProfileName=Jesus+Plazola
+
+Intent informacionExamenes (confidence 0.606) from query text "hacen exámenes"
+
+ProfileName=Jesus+Herrera+%E2%9C%8C%F0%9F%8F%BB
+
+Intent Default_Fallback_Intent (confidence 0) from query text "xd"
+
+CompletionChoice(text= lo siento no tengo una sugerencia para mostrar, index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=Jesus+Herrera+%E2%9C%8C%F0%9F%8F%BB
+
+Intent lineasInvestigacion (confidence 0.382) from query text "Que es conacyt"
+
+ProfileName=Leticia+Ibarra
+
+Intent Default_Fallback_Intent (confidence 0) from query text "."
+
+CompletionChoice(text=, index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=Jesus+Plazola
+
+Intent fechaRecepcionDocumentos (confidence 0.507) from query text "tiene algún límite de edad"
+
+ProfileName=Mony+Ruiz
+
+Intent saludo (confidence 1) from query text "Hola"
+
+Intent costosProcesosBecas (confidence 1) from query text "Precio"
+
+ProfileName=Mony+Ruiz
+
+Intent direccion (confidence 0.493) from query text "Cuáles posgrados están disponibles"
+
+ProfileName=Ingeniero+Vargas
+
+Intent Default_Fallback_Intent (confidence 0) from query text "."
+
+CompletionChoice(text=, index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=Ingeniero+Vargas
+
+Intent Default_Fallback_Intent (confidence 0) from query text "Help"
+
+CompletionChoice(text= lo siento no tengo una sugerencia para mostrar, index=0, logprobs=null, finish_reason=stop)
+
+Intent saludo (confidence 1) from query text "Hola"
+
+Intent planEstudios (confidence 0.671) from query text "Plan de estudios"
+
+Intent Parameters: {PPROGRAMA=""}
+
+ProfileName=Mony+Ruiz
+
+Intent Default_Fallback_Intent (confidence 0) from query text "Horario"
+
+CompletionChoice(text=Si te interesa puedes intentar escribir: Cuál es la fecha de inicio de actividades, index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=Mony+Ruiz
+
+Intent inicioActividades (confidence 0.465) from query text "Fecha de inicio"
+
+ProfileName=Ingeniero+Vargas
+
+Intent informacionGeneral (confidence 0.811) from query text "Quiero solicitar información"
+
+ProfileName=Mapachito+Ucraniano%F0%9F%87%BA%F0%9F%87%A6%F0%9F%A6%9D
+
+Intent Default_Fallback_Intent (confidence 0) from query text "."
+
+CompletionChoice(text=, index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=Mony+Ruiz
+
+Intent ofrecerAyuda (confidence 1) from query text "Gracias"
+
+ProfileName=Mapachito+Ucraniano%F0%9F%87%BA%F0%9F%87%A6%F0%9F%A6%9D
+
+Intent saludo (confidence 1) from query text "Hola"
+
+ProfileName=Ingeniero+Vargas
+
+Intent duracionPosgrado (confidence 1) from query text "¿Cuánto tiempo dura el posgrado?"
+
+Intent informacionGeneral (confidence 0.811) from query text "Quiero solicitar información"
+
+Intent informacionAcercaDePosgrado (confidence 1) from query text "Que es el posgrado en ciencias de la información"
+
+ProfileName=Aru
+
+Intent saludo (confidence 1) from query text "Hola"
+
+ProfileName=Delma+Mendoza
+
+Intent saludo (confidence 1) from query text "Hola"
+
+ProfileName=Aru
+
+Intent frecuenciaConvocatoria (confidence 0.722) from query text "Convocatorias"
+
+ProfileName=Delma+Mendoza
+
+Intent requisitos (confidence 0.561) from query text "Requisitos por favor"
+
+Intent Parameters: {PPROGRAMA=""}
+
+ProfileName=Aru
+
+Intent tienenBeca (confidence 0.918) from query text "Becas"
+
+ProfileName=Mapachito+Ucraniano%F0%9F%87%BA%F0%9F%87%A6%F0%9F%A6%9D
+
+Intent duracionPosgrado (confidence 0.585) from query text "Cuánto dura el posgrado"
+
+ProfileName=Aru
+
+Intent Default_Fallback_Intent (confidence 0) from query text "Visitas ITMAZ"
+
+CompletionChoice(text= si te interesa puedes intentar escribir: Datos de contacto, index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=Aru
+
+Intent datosDeContacto (confidence 1) from query text "Datos de contacto"
+
+ProfileName=Aru
+
+Intent Default_Fallback_Intent (confidence 0) from query text "Itmaz"
+
+CompletionChoice(text= lo siento no tengo una sugerencia para mostrar, index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=Mapachito+Ucraniano%F0%9F%87%BA%F0%9F%87%A6%F0%9F%A6%9D
+
+Intent resultadosAdmision (confidence 0.742) from query text "Cuando obtengo los resultados de admisión"
+
+ProfileName=Mapachito+Ucraniano%F0%9F%87%BA%F0%9F%87%A6%F0%9F%A6%9D
+
+Intent datosDeContacto (confidence 0.586) from query text "Y si no recibo el correo electrónico?"
+
+ProfileName=Marco+Sarmiento
+
+Intent saludo (confidence 1) from query text "hi"
+
+ProfileName=Mapachito+Ucraniano%F0%9F%87%BA%F0%9F%87%A6%F0%9F%A6%9D
+
+Intent lineasInvestigacion (confidence 0.341) from query text "Que es lo que debo de hacer si soy aceptado?"
+
+ProfileName=Marco+Sarmiento
+
+Intent informacionGeneral (confidence 1) from query text "información"
+
+ProfileName=Mapachito+Ucraniano%F0%9F%87%BA%F0%9F%87%A6%F0%9F%A6%9D
+
+Intent perfilEgreso (confidence 0.404) from query text "Cuál es el área de trabajo de un estudiante recién egresado?"
+
+Intent Parameters: {PPROGRAMA=""}
+
+Intent informacionAcercaDePosgrado (confidence 0.457) from query text "qué es el posgrado"
+
+ProfileName=Diana+Camargo
+
+Intent saludo (confidence 1) from query text "Hola"
+
+ProfileName=Leticia+Ibarra
+
+Intent informacionMovilidad (confidence 0.358) from query text "Dame información sobre la maestría"
+
+Intent informacionGeneral (confidence 1) from query text "Informacion general"
+
+Intent fechaRecepcionDocumentos (confidence 0.447) from query text "Fechas"
+
+ProfileName=Leticia+Ibarra
+
+Intent requisitos (confidence 0.508) from query text "Requisitos para estudiar"
+
+Intent Parameters: {PPROGRAMA=""}
+
+ProfileName=Emmanuel+Gp
+
+Intent Default_Fallback_Intent (confidence 0) from query text "."
+
+CompletionChoice(text=, index=0, logprobs=null, finish_reason=stop)
+
+Intent saludo (confidence 1) from query text "Hola"
+
+ProfileName=Emmanuel+Gp
+
+Intent informacionGeneral (confidence 1) from query text "Información"
+
+ProfileName=~%F0%9F%92%99~
+
+Intent saludo (confidence 1) from query text "Hola buen día!"
+
+ProfileName=Emmanuel+Gp
+
+Intent informacionAcercaDePosgrado (confidence 0.744) from query text "¿Qué es el posgrado de ciencias de la información?"
+
+ProfileName=Leticia+Ibarra
+
+Intent informacionMovilidad (confidence 0.351) from query text "Está en el pnpc la maestría?"
+
+ProfileName=Leticia+Ibarra
+
+Intent planEstudios (confidence 0.465) from query text "Documentos para estudiar el doctorado"
+
+Intent Parameters: {PPROGRAMA="doctorado"}
+
+ProfileName=~%F0%9F%92%99~
+
+Intent modalidadPosgrado (confidence 0.348) from query text "Quiero saber si el posgrado es presencial, virtual o mixto y cual es el costo?"
+
+ProfileName=Leticia+Ibarra
+
+Intent recepcionDocumentos (confidence 0.522) from query text "Que documentos necesito para entrar al  doctorado"
+
+ProfileName=Emmanuel+Gp
+
+Intent duracionPosgrado (confidence 1) from query text "Cuánto tiempo dura el posgrado?"
+
+ProfileName=Emmanuel+Gp
+
+Intent resultadosAdmision (confidence 0.742) from query text "Cuándo obtengo los resultados de admisión?"
+
+ProfileName=Emmanuel+Gp
+
+Intent perfilEgreso (confidence 0.717) from query text "Perfil de egreso de un alumno de maestría"
+
+Intent Parameters: {PPROGRAMA="maestria"}
+
+ProfileName=~%F0%9F%92%99~
+
+Intent saludo (confidence 0.387) from query text "En que horario?"
+
+ProfileName=Emmanuel7+Gp
+
+Intent inicioActividades (confidence 0.698) from query text "Fecha de inicio de actividades"
+
+ProfileName=Emmanuel+Gp
+
+Intent costosProcesosBecas (confidence 1) from query text "Precio"
+
+ProfileName=Angel
+
+Intent saludo (confidence 1) from query text "hola"
+
+Intent Default_Fallback_Intent (confidence 0) from query text "."
+
+CompletionChoice(text=, index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=Sa%C3%BAl
+
+Intent saludo (confidence 1) from query text "Hola"
+
+ProfileName=Sa%C3%BAl
+
+Intent modalidadPosgrado (confidence 0.362) from query text "Información del posgrado"
+
+ProfileName=Sa%C3%BAl
+
+Intent modalidadExamenes (confidence 0.304) from query text "En dónde se encuentra?"
+
+ProfileName=Sa%C3%BAl
+
+Intent paraQueSirveElPosgrado (confidence 0.414) from query text "Dónde se estudian los posgrados?"
+
+Intent Default_Fallback_Intent (confidence 0) from query text "Visitas a escuelas"
+
+CompletionChoice(text=, index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=Aru
+
+Intent Default_Fallback_Intent (confidence 0) from query text "Open house"
+
+CompletionChoice(text=, index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=Aru
+
+Intent informacionMovilidad (confidence 0.8) from query text "Movilidad"
+
+ProfileName=~%F0%9F%92%99~
+
+Intent informacionAcercaDePosgrado (confidence 0.431) from query text "cual es el horario del posgrado?"
+
+ProfileName=Angel
+
+Intent Default_Fallback_Intent (confidence 0) from query text "visitas a escuelas"
+
+CompletionChoice(text=, index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=Angel
+
+Intent Default_Fallback_Intent (confidence 0) from query text "movi"
+
+CompletionChoice(text=, index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=Angel
+
+Intent guiasExamen (confidence 0.375) from query text "dame una recomendacion"
+
+ProfileName=Angel
+
+Intent fechaPreinscripciones (confidence 0.376) from query text "tengo ganas de cambiarme de escuela"
+
+ProfileName=Angel
+
+Intent saludo (confidence 0.6) from query text "que tan lejos queda"
+
+ProfileName=.
+
+Intent saludo (confidence 1) from query text "Hola"
+
+ProfileName=%C2%A0
+
+Intent Default_Fallback_Intent (confidence 0) from query text "holi"
+
+CompletionChoice(text=, index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=RHH
+
+Intent saludo (confidence 1) from query text "Hola"
+
+ProfileName=Paulina+Inda
+
+Intent Default_Fallback_Intent (confidence 0) from query text "."
+
+CompletionChoice(text=, index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=Paulina+Inda
+
+Intent quienEres (confidence 1) from query text "¿Quién eres?"
+
+ProfileName=RHH
+
+Intent informacionGeneral (confidence 1) from query text "Informacion"
+
+ProfileName=Paulina+Inda
+
+Intent informacionAcercaDePosgrado (confidence 0.451) from query text "Que es PCI"
+
+ProfileName=RHH
+
+Intent duracionPosgrado (confidence 0.75) from query text "Cuanto tiempo dura?"
+
+ProfileName=Z+I+K+E+%F0%9F%90%89
+
+Intent Default_Fallback_Intent (confidence 0) from query text "."
+
+CompletionChoice(text=, index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=Z+I+K+E+%F0%9F%90%89
+
+Intent saludo (confidence 1) from query text "Hola"
+
+ProfileName=Paulina+Inda
+
+Intent Default_Fallback_Intent (confidence 0) from query text "En qué me puedes ayudar?"
+
+CompletionChoice(text=Si quieres puedes intentar escribir: ¿Qué tengo que hacer para entrar al posgrado?, index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=Paulina+Inda
+
+Intent recepcionDocumentos (confidence 1) from query text "Que tengo que hacer para entrar al posgrado?"
+
+ProfileName=Paulina+Inda
+
+Intent lineasInvestigacion (confidence 0.555) from query text "Que es geodesia?"
+
+ProfileName=Lunz
+
+Intent saludo (confidence 1) from query text "Hola"
+
+ProfileName=Lunz
+
+Intent costosProcesosBecas (confidence 0.644) from query text "Que precio tiene?"
+
+Intent lineasInvestigacion (confidence 0.543) from query text "Que me puedes decir sobre computación y sistemas?"
+
+ProfileName=Lunz
+
+Intent inicioActividades (confidence 0.593) from query text "Cuando iniciará?"
+
+Intent quienEres (confidence 0.388) from query text "Sobre que trata?"
+
+Intent informacionAcercaDePosgrado (confidence 1) from query text "Que es el PCI?"
+
+ProfileName=Cinthya+%F0%9F%AA%B7
+
+Intent saludo (confidence 1) from query text "Hola buenas tardes!"
+
+ProfileName=Cinthya+%F0%9F%AA%B7
+
+Intent Default_Fallback_Intent (confidence 0) from query text "Quiero información sobre   el posgrado"
+
+CompletionChoice(text=, index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=Cinthya+%F0%9F%AA%B7
+
+Intent informacionGeneral (confidence 1) from query text "Información"
+
+ProfileName=Cinthya+%F0%9F%AA%B7
+
+Intent informacionAcercaDePosgrado (confidence 1) from query text "Que es el posgrado en ciencias de la información"
+
+ProfileName=Cinthya+%F0%9F%AA%B7
+
+Intent duracionPosgrado (confidence 0.531) from query text "Duracion del posgrado"
+
+ProfileName=Cinthya+%F0%9F%AA%B7
+
+Intent resultadosAdmision (confidence 0.742) from query text "Resultados de admision"
+
+ProfileName=Cinthya+%F0%9F%AA%B7
+
+Intent perfilEgreso (confidence 0.459) from query text "Perfil del egresado"
+
+Intent Parameters: {PPROGRAMA=""}
+
+ProfileName=Cinthya+%F0%9F%AA%B7
+
+Intent inicioActividades (confidence 0.465) from query text "Fecha de inicio"
+
+ProfileName=Cinthya+%F0%9F%AA%B7
+
+Intent titulacion (confidence 0.479) from query text "Como me registro"
+
+ProfileName=Covarrubias
+
+Intent Default_Fallback_Intent (confidence 0) from query text "M"
+
+CompletionChoice(text=, index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=Covarrubias
+
+Intent saludo (confidence 1) from query text "Hola"
+
+ProfileName=Covarrubias
+
+Intent informacionGeneral (confidence 1) from query text "Información"
+
+Intent informacionAcercaDePosgrado (confidence 1) from query text "¿Que es el posgrado en ciencias de la información?"
+
+ProfileName=Cinthya+%F0%9F%AA%B7
+
+Intent paraQueSirveElPosgrado (confidence 0.368) from query text "Ahi mas opciones de posgrados?"
+
+ProfileName=Cinthya+%F0%9F%AA%B7
+
+Intent direccion (confidence 0.638) from query text "Lugar para hacer el posgrado?"
+
+ProfileName=Cinthya+%F0%9F%AA%B7
+
+Intent paraQueSirveElPosgrado (confidence 0.431) from query text "Otros posgrados"
+
+ProfileName=Cinthya+%F0%9F%AA%B7
+
+Intent ofrecerAyuda (confidence 0.788) from query text "Muchas gracias"
+
+ProfileName=SASUKEEEE+%F0%9F%901%92%F0%9F%AA%939:21:23.58
+
+Intent saludo (confidence 0.698) from query text "Hola, muy buenas tardes... *se sonroja levemente * te vi ayer en la parada de autobús y te quisiera conocer >.<"
+
+ProfileName=SASUKEEEE+%F0%9F%90%92%F0%9F%AA%93
+
+Intent saludo (confidence 1) from query text "Hola"
+
+ProfileName=Jesus+Valverde
+
+Intent informacionGeneral (confidence 1) from query text "Información"
+
+ProfileName=Jesus+Valverde
+
+Intent lineasInvestigacion (confidence 0.487) from query text "Que es?"
+
+Intent saludo (confidence 1) from query text "Hola"
+
+ProfileName=Miguel+Arreola%F0%9F%A5%B8
+
+Intent Default_Fallback_Intent (confidence 0) from query text "Decime la hora conchetumare"
+
+CompletionChoice(text= si te interesa puedes intentar escribir: Información sobre la modalidad de los exámenes, index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=Akin+Rose+B.C
+
+Intent Default_Fallback_Intent (confidence 0) from query text "."
+
+CompletionChoice(text=, index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=Akin+Rose+B.C
+
+Intent saludo (confidence 0.47) from query text "¿Qué haces?"
+
+ProfileName=Akin+Rose+B.C
+
+Intent informacionGeneral (confidence 1) from query text "Información"
+
+ProfileName=Akin+Rose+B.C
+
+Intent duracionPosgrado (confidence 0.663) from query text "¿Cuándo tiempo dura el posgrado?"
+
+ProfileName=El+Jhon
+
+Intent saludo (confidence 1) from query text "Buenas tardes"
+
+ProfileName=Akin+Rose+B.C
+
+Intent resultadosAdmision (confidence 0.742) from query text "¿Cuando obtengo los resultados de admisión?"
+
+ProfileName=El+Jhon
+
+Intent requisitos (confidence 0.65) from query text "¿cuales son los requisitos para inscribirme?"
+
+Intent Parameters: {PPROGRAMA=""}
+
+ProfileName=Akin+Rose+B.C
+
+Intent inicioActividades (confidence 0.698) from query text "Fecha de inicio de actividades"
+
+ProfileName=El+Jhon
+
+Intent inicioActividades (confidence 0.617) from query text "cuando inician las clases?"
+
+Intent costosProcesosBecas (confidence 0.487) from query text "cual es el costo?"
+
+Intent lineasInvestigacion (confidence 0.33) from query text "cual es la edad que debo tener?"
+
+ProfileName=Akin+Rose+B.C
+
+Intent informacionAcercaDePosgrado (confidence 1) from query text "¿Qué es el posgrado en ciencias de la información?"
+
+Intent modalidadExamenes (confidence 0.493) from query text "donde se encuentra la escuela?"
+
+ProfileName=El+J1hon
+
+Intent informacionEntrevista (confidence 0.729) from query text "cuanto tarda la entrevista?"
+
+ProfileName=El+Jhon
+
+Intent Default_Fallback_Intent (confidence 0) from query text "gracias Angel"
+
+CompletionChoice(text= no hay problema, ¿cómo estás?, index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=El+Jhon
+
+Intent ofrecerAyuda (confidence 0.69) from query text "gracias por tu ayuda angel"
+
+Intent perfilEgreso (confidence 0.492) from query text "Perfil de egresado"
+
+Intent Parameters: {PPROGRAMA=""}
+
+ProfileName=Akin+Rose+B.C
+
+Intent perfilEgreso (confidence 0.4) from query text "Maestría"
+
+Intent Parameters: {PPROGRAMA="maestria"}
+
+ProfileName=Akin+Roser+B.C
+
+Intent planEstudios (confidence 0.543) from query text "Doctorado"
+
+Intent Parameters: {PPROGRAMA="doctorado"}
+
+ProfileName=Akin+Rose+B.C
+
+Intent ofrecerAyuda (confidence 1) from query text "Gracias"
+
+ProfileName=Ianalex
+
+Intent Default_Fallback_Intent (confidence 0) from query text "."
+
+CompletionChoice(text=, index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=Alegria_joestar
+
+Intent Default_Fallback_Intent (confidence 0) from query text "Hol"
+
+CompletionChoice(text= si te interesa puedes intentar escribir: Información sobre fecha de Recepción de documentos, index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=Alegria_joestar
+
+Intent fechaRecepcionDocumentos (confidence 1) from query text "Información sobre fecha de recepción de documentos"
+
+ProfileName=Alegria_joestar
+
+Intent ofrecerAyuda (confidence 1) from query text "Si"
+
+ProfileName=Ianalex
+
+Intent procesoInscripcion (confidence 0.812) from query text "Inscripción"
+
+ProfileName=Ianalex
+
+Intent perfilEgreso (confidence 0.514) from query text "Maestria"
+
+Intent Parameters: {PPROGRAMA="maestria"}
+
+ProfileName=Ianalex
+
+Intent planEstudios (confidence 0.543) from query text "Doctorado"
+
+Intent Parameters: {PPROGRAMA="doctorado"}
+
+ProfileName=Ianalex
+
+Intent Default_Fallback_Intent (confidence 0) from query text "Contenido"
+
+CompletionChoice(text=, index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=Ianalex
+
+Intent Default_Fallback_Intent (confidence 0) from query text "Opciones"
+
+CompletionChoice(text=, index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=Edson+Osuna+Peraza
+
+Intent saludo (confidence 1) from query text "Hola"
+
+ProfileName=Edson+Osuna+Peraza
+
+Intent modalidadPosgrado (confidence 0.364) from query text "Que posgrado es?"
+
+ProfileName=Edson+Osuna+Peraza
+
+Intent lineasInvestigacion (confidence 0.371) from query text "Que programas son?"
+
+ProfileName=Edson+Osuna+Peraza
+
+Intent direccion (confidence 0.531) from query text "Donde se imparten estos posgrados?"
+
+ProfileName=Edson+Osuna+Peraza
+
+Intent docentes (confidence 0.39) from query text "Que planta docente tiene?"
+
+ProfileName=Edson+Osuna+Peraza
+
+Intent requisitos (confidence 0.382) from query text "Qué requisitos se ocupan para inscribirse en los posgrados?"
+
+Intent Parameters: {PPROGRAMA=""}
+
+ProfileName=Edson+Osuna+Peraza
+
+Intent saludo (confidence 0.35) from query text "Que equipo requiero?"
+
+ProfileName=Tilikum
+
+Intent saludo (confidence 1) from query text "Hola"
+
+ProfileName=Tilikum
+
+Intent informacionGeneral (confidence 0.747) from query text "Me brinda información"
+
+ProfileName=Tilikum
+
+Intent informacionAcercaDePosgrado (confidence 1) from query text "¿Qué es el posgrado en ciencias de la información?"
+
+ProfileName=Tilikum
+
+Intent duracionPosgrado (confidence 1) from query text "¿Cuánto tiempo dura el posgrado?"
+
+ProfileName=Tilikum
+
+Intent perfilEgreso (confidence 0.758) from query text "Perfil de egreso de un alumno de maestria"
+
+Intent Parameters: {PPROGRAMA="maestria"}
+
+ProfileName=Tilikum
+
+Intent resultadosAdmision (confidence 0.742) from query text "¿Cuándo obtengo los resultados de admisión?"
+
+ProfileName=Tilikum
+
+Intent inicioActividades (confidence 0.698) from query text "Fecha de inicio de actividades"
+
+ProfileName=Tilikum
+
+Intent ofrecerAyuda (confidence 1) from query text "Gracias"
+
+ProfileName=Kotorynanamory
+
+Intent saludo (confidence 1) from query text "Buenas tardes"
+
+ProfileName=Kotorynanamory
+
+Intent informacionGeneral (confidence 0.498) from query text "Quiero consultar mi calificación"
+
+Intent informacionAcercaDePosgrado (confidence 1) from query text "¿Que es el posgrado en ciencias de la información?"
+
+ProfileName=M%C3%B3nica+Olivarr%C3%ADa
+
+Intent saludo (confidence 1) from query text "Buenas tardes"
+
+ProfileName=M%C3%B3nica+Olivarr%C3%ADa
+
+Intent inicioActividades (confidence 0.593) from query text "Cuando inicia?"
+
+ProfileName=M%C3%B3nica+Olivarr%C3%ADa
+
+Intent duracionPosgrado (confidence 0.66) from query text "Que duración tiene?"
+
+ProfileName=M%C3%B3nica+Olivarr%C3%ADa
+
+Intent perfilEgreso (confidence 0.384) from query text "Cual es el programa de la maestría?"
+
+Intent Parameters: {PPROGRAMA="maestria"}
+
+ProfileName=M%C3%B3nica+Olivarr%C3%ADa
+
+Intent costosProcesosBecas (confidence 0.487) from query text "Cual es el costo?"
+
+ProfileName=M%C3%B3nica+Olivarr%C3%ADa
+
+Intent requisitos (confidence 0.644) from query text "Requisitos para inscribirse?"
+
+Intent Parameters: {PPROGRAMA=""}
+
+ProfileName=Johan+Herrera+Alvarez
+
+Intent saludo (confidence 1) from query text "Hola"
+
+ProfileName=M%C3%B3nica+Olivarr%C3%ADa
+
+Intent ofrecerAyuda (confidence 1) from query text "Gracias"
+
+ProfileName=Angel
+
+Intent Default_Fallback_Intent (confidence 0) from query text "Can you give me the professors lists?"
+
+CompletionChoice(text=, index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=Angel
+
+Intent Default_Fallback_Intent (confidence 0) from query text "Can you give me the professors lists?"
+
+CompletionChoice(text=, index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=Angel
+
+Intent Default_Fallback_Intent (confidence 0) from query text "give me the professors lists?"
+
+CompletionChoice(text=, index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=Angel
+
+Intent saludo (confidence 1) from query text "hola"
+
+ProfileName=Angel
+
+Intent Default_Fallback_Intent (confidence 0) from query text "Can you give me the professors lists?"
+
+CompletionChoice(text=Yes, you can find a guide on the exam here: or you can find the location here: and the contact information for the professors here: the program offers a Master's degree in which you can explore a variety of research lines. The course is offered in Spanish, and you must meet the requirements to enter the program before you can enroll. The program lasts three years and you are expected to complete both the coursework and the thesis., index=0, logprobs=null, finish_reason=length)
+
+Intent Default_Fallback_Intent (confidence 0) from query text "Can you give me the professors lists?"
+
+CompletionChoice(text= Yes, you can find a guide on the exam here: or you can find the location here: and the contact information for the professors here: The program offers a Master's degree in Music. Some of the lines of research the program is interested in include: The program has a Propedeutic course and an Exam of Knowledge in the first semester. The program offers a distance learning option. The program has a duration of 4, index=0, logprobs=null, finish_reason=length)
+
+ProfileName=Angel
+
+Intent Default_Fallback_Intent (confidence 0) from query text "give me the professors lists?"
+
+Intent Default_Fallback_Intent (confidence 0) from query text "who are the professors?"
+
+CompletionChoice(text= If you're interested, you can try looking for information about the teachers on the list., index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=Angel
+
+Intent Default_Fallback_Intent (confidence 0) from query text "where are you?"
+
+CompletionChoice(text= If you're interested, you can try looking for information about the teachers here. The course starts on _____ and the final exam is on _____., index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=Angel
+
+Intent Default_Fallback_Intent (confidence 0) from query text "sabes japones?"
+
+CompletionChoice(text= Si te interesa puedes intentar escribir: Información sobre los docentes, index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=Angel
+
+Intent informacionAcercaDePosgrado (confidence 0.355) from query text "PCI �何���"
+
+ProfileName=Alex659
+
+Intent saludo (confidence 1) from query text "Hola"
+
+ProfileName=Alex659
+
+Intent Default_Fallback_Intent (confidence 0) from query text "Sobre lo que vjene el proximo semestre"
+
+CompletionChoice(text= Si quieres puedes intentar escribir: Información sobre fecha de Recepción de documentos., index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=Alex659
+
+Intent fechaRecepcionDocumentos (confidence 1) from query text "Información sobre fecha de Recepción de documentos."
+
+Intent informacionBot (confidence 0.603) from query text "Como?"
+
+ProfileName=Alex659
+
+Intent ofrecerAyuda (confidence 0.589) from query text "Ah ya veo"
+
+ProfileName=Alex659
+
+Intent datosDeContacto (confidence 0.344) from query text "De nada 😊"
+
+ProfileName=Williams
+
+Intent Default_Fallback_Intent (confidence 0) from query text "."
+
+CompletionChoice(text= Si te interesa puedes intentar escribir: Información sobre los docentes., index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=Williams
+
+Intent Default_Fallback_Intent (confidence 0) from query text "Jose"
+
+CompletionChoice(text= Si te interesa puedes intentar escribir: Información sobre los docentes., index=0, logprobs=null, finish_reason=stop)
+
+Intent Default_Fallback_Intent (confidence 0) from query text "A"
+
+CompletionChoice(text= Si te interesa puedes intentar escribir: Información sobre los docentes., index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=Gustavo+Peraza+Polanco
+
+Intent docentes (confidence 1) from query text "Información sobre los docentes"
+
+ProfileName=SASUKEEEE+%F0%9F%90%92%F0%9F%AA%93
+
+Intent Default_Fallback_Intent (confidence 0) from query text "buenas noches tengo hambre :p"
+
+CompletionChoice(text= si te interesa puedes intentar escribir: Información sobre movilidad, index=0, logprobs=null, finish_reason=stop)
+
+Intent informacionBot (confidence 0.463) from query text "ahhh prro ya te pusieron más respuestas :D"
+
+ProfileName=SASUKEEEE+%F0%9F%90%92%F0%9F%AA%93
+
+Intent Default_Fallback_Intent (confidence 0) from query text "oye conozco a otro bot de mensajería interesante, Cleverbot, lo conoces?"
+
+CompletionChoice(text= si te interesa puedes intentar escribir: Ejemplo de conversación con Cleverbot, index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=SASUKEEEE+%F0%9F%90%92%F0%9F%AA%93
+
+Intent datosDeContacto (confidence 0.335) from query text "Ejemplo de conversación con Cleverbot"
+
+ProfileName=S ASUKEEEE+%F0%9F%90%[pool-3-thread-1] WARN   - Unknown query content encoding
+
+Intent Default_Fallback_Intent (confidence 0) from query text "yo no te pregunté eso xd"
+
+CompletionChoice(text= si te interesa puedes intentar escribir: Información sobre la modalidad de los exámenes, index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=SASUKEEEE+%F0%9F%90%92%F0%9F%AA%93
+
+Intent frecuenciaConvocatoria (confidence 0.351) from query text "cuéntame de la vida de tu creador :3"
+
+ProfileName=SASUKEEEE+%F0%9F%90%92%F0%9F%AA%93
+
+Intent quienEres (confidence 0.347) from query text "Es guapo? 7v7"
+
+ProfileName=SASUKEEEE+%F0%9F%90%92%F0%9F%AA%93
+
+Intent informacionBot (confidence 0.326) from query text "interesante pero como se llama? anda cuenta ;)"
+
+ProfileName=SASUKEEEE+%F0%9F%90%92%F0%9F%AA%93
+
+Intent Default_Fallback_Intent (confidence 0) from query text "literal no entendí nada de lo que dijiste"
+
+CompletionChoice(text= literalmente no entendiste nada de lo que dije, si te interesa puedes intentar escribir: Información sobre fecha de Recepción de documentos, index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=SASUKEEEE+%F0%9F%90%92%F0%9F%AA%93
+
+Intent saludo (confidence 0.598) from query text "jaja veo que aprendes eh"
+
+ProfileName=SASUKEEEE+%F0%9F%90%92%F0%9F%AA%93
+
+Intent informacionBot (confidence 0.458) from query text "�ngel es el que te hizo o ese es tu nombre propia?"
+
+ProfileName=SASUKEEEE+%F0%9F%90%92%F0%9F%AA%93
+
+ProfileName=SASUKEEEE+%F0%9F%90%92%F0%9F%AA%93
+
+Intent Default_Fallback_Intent (confidence 0) from query text "échate unos momazos mejor dos punto uve"
+
+CompletionChoice(text= lo siento no tengo una sugerencia para mostrar, index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=SASUKEEEE+%F0%9F%90%92%F0%9F%AA%93
+
+Intent informacionBot (confidence 0.435) from query text "ah te dejé sin palabras pe"
+
+ProfileName=SASUKEEEE+%F0%9F%90%92%F0%9F%AA%93
+
+ProfileName=SASUKEEEE+%F0%9F%90%92%F0%9F%AA%93
+
+Intent Default_Fallback_Intent (confidence 0) from query text "total, el hambre no se me ha quitado ciertamente"
+
+CompletionChoice(text= si te interesa puedes intentar escribir: Información sobre fecha de Recepción de documentos, index=0, logprobs=null, finish_reason=stop)
+
+Intent datosDeContacto (confidence 0.406) from query text "te puedo dar un mordisco? :3"
+
+Intent lineasInvestigacion (confidence 0.389) from query text "cuáles son todas las opciones de diálogo que tienes?"
+
+ProfileName=SASUKEEEE+%F0%9F%90%92%F0%9F%AA%93
+
+Intent quienEres (confidence 0.475) from query text "Quién es angel?"
+
+ProfileName=SASUKEEEE+%F0%9F%90%92%F0%9F%AA%93
+
+Intent informacionAcercaDePosgrado (confidence 1) from query text "Qué es el pci?"
+
+ProfileName=SASUKEEEE+%F0%9F%90%92%F0%9F%AA%93
+
+Intent Default_Fallback_Intent (confidence 0) from query text "háblame de ti"
+
+CompletionChoice(text= Si te interesa puedes intentar escribir: Información sobre el programa de maestría, el plan de estudios, las líneas de investigación, la modalidad de los exámenes, la duración del programa de posgrado, el perfil de egreso de un alumno de maestría, el costo de la maestría, index=0, logprobs=null, finish_reason=length)
+
+ProfileName=SASUKEEEE+%F0%9F%90%92%F0%9F%AA%93
+
+Intent Default_Fallback_Intent (confidence 0) from query text "cada vez escribes más"
+
+CompletionChoice(text= si te interesa puedes intentar escribir: Información sobre la modalidad de los exámenes, index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=SASUKEEEE+%F0%9F%90%92%F0%9F%AA%93
+
+Intent Default_Fallback_Intent (confidence 0) from query text "tu creador no te puso algo interesante?"
+
+CompletionChoice(text= si te interesa puedes intentar escribir: Información general, index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=SASUKEEEE+%F0%9F%90%92%F0%9F%AA%93
+
+ProfileName=Chi%C3%B8Mend%C3%B5z%C4%81%F0%9F%8C%BB%E2%9C%A8
+
+Intent saludo (confidence 1) from query text "Hola"
+
+Intent fechaCursoPropedeuticoExamenConocimientos (confidence 0.319) from query text "Información sobre cursos"
+
+ProfileName=Chi%C3%B8Mend%C3%B5z%C4%081%F0%9F%8C%BB%E2%9C%A8
+
+Intent Default_Fallback_Intent (confidence 0) from query text "Dónde lo pido"
+
+CompletionChoice(text=Lo siento no tengo una sugerencia para mostrar, index=0, logprobs=null, finish_reason=stop)
+
+Intent Default_Fallback_Intent (confidence 0) from query text "Dónde realiz el pago?"
+
+CompletionChoice(text=Si te interesa puedes intentar escribir: Información sobre la modalidad de los exámenes, index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=Chi%C3%B8Mend%C3%B5z%C4%81%F0%9F%8C%BB%E2%9C%A8
+
+Intent informacionExamenes (confidence 0.378) from query text "Información sobre modalidad de exámenes"
+
+ProfileName=Chi%C3%B8Mend%C3%B5z%C4%81%F0%9F%8C%BB%E2%9C%A8
+
+Intent fechaExamenCeneval (confidence 0.801) from query text "Costo examen Ceneval"
+
+ProfileName=Chi%C3%B8Mend%C3%B5z%C4%81%F0%9F%8C%BB%E2%9C%A8
+
+Intent fechaExamenCeneval (confidence 0.762) from query text "Precio examen Ceneval"
+
+Intent Default_Fallback_Intent (confidence 0) from query text "Me podrías dar información sobre la facultad"
+
+CompletionChoice(text= Si quieres puedes intentar escribir: Información sobre la facultad, index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=Luis+Arias
+
+Intent informacionGeneral (confidence 1) from query text "Información"
+
+ProfileName=Luis+Arias
+
+Intent informacionAcercaDePosgrado (confidence 0.662) from query text "Cuánto dura el posgrado de ciencias de la información"
+
+Intent saludo (confidence 1) from query text "hola"
+
+ProfileName=Juan+Carlos
+
+Intent Default_Fallback_Intent (confidence 0) from query text "5"
+
+CompletionChoice(text= lo siento no tengo una sugerencia para mostrar, index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=Juan+Carlos
+
+Intent Default_Fallback_Intent (confidence 0) from query text "c]]"
+
+CompletionChoice(text= lo siento no tengo una sugerencia para mostrar, index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=Juan+Carlos
+
+Intent Default_Fallback_Intent (confidence 0) from query text "c++"
+
+CompletionChoice(text= Si te interesa puedes intentar escribir: Información sobre C++., index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=Juan+Carlos
+
+Intent Default_Fallback_Intent (confidence 0) from query text "informacion sobre matrices"
+
+CompletionChoice(text= lo siento no tengo una sugerencia para mostrar, index=0, logprobs=null, finish_reason=stop)
+
+Intent Default_Fallback_Intent (confidence 0) from query text "2"
+
+CompletionChoice(text= Si quieres puedes intentar escribir: Información sobre la modalidad de los exámenes., index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=Juan+Carlos
+
+Intent Default_Fallback_Intent (confidence 0) from query text "arbol"
+
+CompletionChoice(text= Si te interesa puedes intentar escribir: ¿Qué es un arbol?, index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=Juan+Carlos
+
+Intent Default_Fallback_Intent (confidence 0) from query text "league of legends"
+
+CompletionChoice(text= Si te gusta el juego de League of Legends, puedes intentar preguntar sobre él en la lista de preguntas., index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=Juan+Carlos
+
+Intent lineasInvestigacion (confidence 0.382) from query text "que rango es tyler1?"
+
+ProfileName=SASUKEEEE+%F0%9F%90%92%F0%9F%AA%93
+
+Intent saludo (confidence 0.485) from query text "hey buenas noches"
+
+ProfileName=SASUKEEEE+%F0%9F%90%92%F0%9F%AA%93
+
+Intent fechaPreinscripciones (confidence 0.32) from query text "tengo hambre otra vez :3"
+
+ProfileName=SASUKEEEE+%F0%9F%90%92%F0%9F%AA%93
+
+Intent saludo (confidence 0.468) from query text "eso qué"
+
+ProfileName=SASUKEEEE+%F0%9F%90%92%F0%9F%AA%93
+
+ProfileName=SASUKEEEE+%F0%9F%90%92%F0%9F%AA%93
+
+Intent informacionBot (confidence 0.435) from query text "ahh te dejé sin palabras pe"
+
+ProfileName=SASUKEEEE+%F0%9F%90%92%F0%9F%AA%93
+
+ProfileName=Angel
+
+Intent saludo (confidence 1) from query text "hola"
+
+ProfileName=Vanessa
+
+Intent saludo (confidence 1) from query text "Hola"
+
+ProfileName=Vanessa
+
+Intent inicioActividades (confidence 0.592) from query text "Cuando inicia?"
+
+ProfileName=Vanessa
+
+Intent duracionPosgrado (confidence 0.653) from query text "Cuanto dura?"
+
+ProfileName=Vanessa
+
+Intent requisitos (confidence 0.661) from query text "Cuales son los requisitos?"
+
+Intent Parameters: {PPROGRAMA=""}
+
+ProfileName=Vanessa
+
+Intent tienenBeca (confidence 0.899) from query text "Cuentan con becas?"
+
+Intent ofrecerAyuda (confidence 1) from query text "Gracias!"
+
+Intent perfilEgreso (confidence 0.374) from query text "Cual es el costo de la maestría?"
+
+Intent Parameters: {PPROGRAMA="maestria"}
+
+ProfileName=Vanessa
+
+Intent costosProcesosBecas (confidence 1) from query text "Precio"
+
+ProfileName=Vanessa
+
+Intent costosProcesosBecas (confidence 0.49) from query text "Costo"
+
+Intent planEstudios (confidence 0.6) from query text "Plan de estudio"
+
+Intent Parameters: {PPROGRAMA=""}
+
+ProfileName=Vanessa
+
+ProfileName=Vanessa
+
+Intent Default_Fallback_Intent (confidence 0) from query text "Presio"
+
+CompletionChoice(text= si te interesa puedes intentar escribir: Información sobre la modalidad de los exámenes, index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=Vanessa
+
+Intent Default_Fallback_Intent (confidence 0) from query text "Detayes y presio"
+
+CompletionChoice(text= Si quieres puedes intentar escribir: Información sobre la modalidad de los exámenes., index=0, logprobs=null, finish_reason=stop)
+
+Intent costosProcesosBecas (confidence 1) from query text "precio"
+
+ProfileName=Raul
+
+Intent direccion (confidence 1) from query text "lugares"
+
+Intent Default_Fallback_Intent (confidence 0) from query text "ontan?"
+
+CompletionChoice(text= si te interesa puedes intentar escribir: Información sobre fecha de Recepción de documentos, index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=Raul
+
+Intent Default_Fallback_Intent (confidence 0) from query text "tengo un problema no tengo dinero"
+
+CompletionChoice(text= si te interesa puedes intentar escribir: Información sobre movilidad, index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=Raul
+
+Intent saludo (confidence 0.37) from query text "y que gano con todo esto?"
+
+ProfileName=Raul
+
+Intent paraQueSirveElPosgrado (confidence 0.678) from query text "de que me sirve esto?"
+
+ProfileName=Angel
+
+Intent fechaPreinscripciones (confidence 0.32) from query text "tengo hambre"
+
+ProfileName=Ailed
+
+Intent duracionPosgrado (confidence 0.491) from query text "Buen día, cuál es la duración de la maestría?"
+
+ProfileName=Ailed
+
+Intent costosProcesosBecas (confidence 0.63) from query text "Y los costos?"
+
+ProfileName=Ailed
+
+Intent planEstudios (confidence 0.486) from query text "Cuantas materias son por semestre?"
+
+Intent Parameters: {PPROGRAMA=""}
+
+ProfileName=Ailed
+
+Intent docentes (confidence 0.731) from query text "Hay alguna lista de maestros?"
+
+ProfileName=Ailed
+
+Intent tienenBeca (confidence 0.844) from query text "Hay alguna beca a la que pueda aplicar?"
+
+ProfileName=Ailed
+
+Intent requisitos (confidence 1) from query text "Cuáles son los requisitos para entrar?"
+
+Intent Parameters: {PPROGRAMA=""}
+
+ProfileName=Ailed
+
+Intent Default_Fallback_Intent (confidence 0) from query text "Y para egresar?"
+
+CompletionChoice(text= Si quieres saber más sobre el programa de maestría puedes intentar escribir una sugerencia en la lista de opciones que se encuentra debajo de este mensaje., index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=Ailed
+
+Intent requisitos (confidence 0.675) from query text "Cuáles son los requisitos para egresar?"
+
+Intent Parameters: {PPROGRAMA=""}
+
+ProfileName=Ailed
+
+Intent Default_Fallback_Intent (confidence 0) from query text "Cómo se elige el tema de tesis?"
+
+CompletionChoice(text= si te interesa puedes intentar escribir: Información sobre la modalidad de los exámenes, index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=Ailed
+
+Intent modalidadExamenes (confidence 1) from query text "Información sobre la modalidad de los exámenes"
+
+ProfileName=Ailed
+
+Intent informacionExamenes (confidence 0.42) from query text "Cuándo son los exámenes?"
+
+ProfileName=Ailed
+
+Intent inicioActividades (confidence 0.534) from query text "Ahí los directores de tesis si quieren a sus alumnos o los ignoran?"
+
+ProfileName=Ailed
+
+Intent guiasExamen (confidence 0.32) from query text "Jaja, en ese momento lo descubriré?"
+
+ProfileName=Ailed
+
+Intent ofrecerAyuda (confidence 0.414) from query text "Y me explotaran o si respetarán mis horarios?"
+
+ProfileName=Angel
+
+Intent saludo (confidence 1) from query text "Hola"
+
+ProfileName=Ailed
+
+Intent perfilEgreso (confidence 0.359) from query text "Si fueras humano entrarías en la maestría?"
+
+Intent Parameters: {PPROGRAMA="maestria"}
+
+ProfileName=Ailed
+
+Intent informacionBot (confidence 0.59) from query text "Te identificas como robot?"
+
+ProfileName=Ailed
+
+Intent quienEres (confidence 0.622) from query text "Pero te identificas como tal o crees que eres más que eso?"
+
+ProfileName=Ailed
+
+Intent requisitos (confidence 0.416) from query text "Cuáles son tus sueños o aspiraciones?"
+
+Intent Parameters: {PPROGRAMA=""}
+
+ProfileName=Ailed
+
+Intent informacionBot (confidence 0.725) from query text "Te volverías malvado?"
+
+ProfileName=Ailed
+
+Intent duracionPosgrado (confidence 0.458) from query text "Te gustaría conquistar el mundo?"
+
+ProfileName=Ailed
+
+Intent perfilEgreso (confidence 0.387) from query text "Si fueras humano estudiarlas la maestría?"
+
+Intent Parameters: {PPROGRAMA="maestria"}
+
+ProfileName=Ailed
+
+Intent perfilEgreso (confidence 0.603) from query text "Me conviene estudiar la maestría o me hago vagabunda de una vez?"
+
+Intent Parameters: {PPROGRAMA="maestria"}
+
+ProfileName=Ailed
+
+Intent Default_Fallback_Intent (confidence 0) from query text "Voy a conseguir trabajo después?"
+
+CompletionChoice(text= Si quieres puedes intentar escribir: Información sobre movilidad, index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=Ailed
+
+Intent informacionMovilidad (confidence 1) from query text "Información sobre movilidad"
+
+ProfileName=Ailed
+
+Intent Default_Fallback_Intent (confidence 0) from query text "La universidad ofrece servicios extras?"
+
+CompletionChoice(text= si te interesa puedes intentar escribir: Información sobre movilidad, index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=Ailed
+
+Intent Default_Fallback_Intent (confidence 0) from query text "No me interesa, solo quiero ser feliz"
+
+CompletionChoice(text= Lo siento no tengo una sugerencia para mostrar, index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=Ailed
+
+Intent ofrecerAyuda (confidence 0.705) from query text "Jaja, gracias por tu atención"
+
+ProfileName=Angel
+
+Intent informacionGeneral (confidence 0.386) from query text "Quiero ser felíz"
+
+ProfileName=Angel
+
+Intent informacionBot (confidence 0.59) from query text "Te identificas como robot?"
+
+ProfileName=Angel
+
+Intent informacionAcercaDePosgrado (confidence 0.354) from query text "PCI �何���"
+
+ProfileName=Angel
+
+Intent Default_Fallback_Intent (confidence 0) from query text "�����れ���"
+
+CompletionChoice(text= usted puede preguntar al usuario la opción que puede interesarle de la Lista de opciones según el mensaje del usuario en la conversación de la misma forma que en el Ejemplo, solo puedes contestar con ejemplos de la Lista de opciones y debes realizar una, index=0, logprobs=null, finish_reason=length)
+
+ProfileName=Angel
+
+Intent Default_Fallback_Intent (confidence 0) from query text "�れ�何���?"
+
+CompletionChoice(text=�れ��Lista de opciones��。
+
+Intent Default_Fallback_Intent (confidence 0) from query text "��誰���?"
+
+CompletionChoice(text=���を教������。����ん�����人���り��ん。, index=0, logprobs=null, finish_reason=stop)
+
+Intent informacionBot (confidence 0.59) from query text "Te identificas como robot?"
+
+ProfileName=Ailed
+
+Intent quienEres (confidence 0.717) from query text "Que eres?"
+
+ProfileName=Ailed
+
+Intent saludo (confidence 0.689) from query text "Trabajas todo el día?"
+
+ProfileName=Ailed
+
+Intent datosDeContacto (confidence 0.372) from query text "Horario de atención"
+
+ProfileName=Ailed
+
+Intent informacionBot (confidence 0.435) from query text "Te da hambre?"
+
+ProfileName=Ailed
+
+Intent saludo (confidence 0.349) from query text "Que idiomas hablas?"
+
+ProfileName=Ailed
+
+Intent Default_Fallback_Intent (confidence 0) from query text "Se requiere inglés?"
+
+CompletionChoice(text= Si te interesa puedes intentar escribir: Información sobre la modalidad de los exámenes, index=0, logprobs=null, finish_reason=stop)
+
+Intent Default_Fallback_Intent (confidence 0) from query text "Can you tell me about the costs?"
+
+CompletionChoice(text= If you're interested, you can try writing: Information about costs., index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=Ailed
+
+Intent informacionGeneral (confidence 0.396) from query text "Information about costs"
+
+ProfileName=Ailed
+
+Intent resultadosAdmision (confidence 0.742) from query text "Cuando obtengo los resultados de admisión?"
+
+ProfileName=Ailed
+
+Intent Default_Fallback_Intent (confidence 0) from query text "Can I do my thesis in english?"
+
+CompletionChoice(text=If you want to, you can try to write: Information about the teachers, index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=Ailed
+
+Intent docentes (confidence 0.576) from query text "What information do you have about the teachers?"
+
+ProfileName=Angel
+
+Intent Default_Fallback_Intent (confidence 0) from query text "�り��������"
+
+CompletionChoice(text= �り��������。, index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=Angel
+
+Intent Default_Fallback_Intent (confidence 0) from query text "�り���"
+
+CompletionChoice(text= Lo siento, no tengo una sugerencia para mostrar., index=0, logprobs=null, finish_reason=stop)
+
+Intent Default_Fallback_Intent (confidence 0) from query text "����"
+
+CompletionChoice(text=�ん���。
+
+ProfileName=Angel
+
+Intent Default_Fallback_Intent (confidence 0) from query text "�ん�ん�"
+
+CompletionChoice(text=�ん�����������ガイドブック��り���？ �������れ�����学����プログラム�マスターステップ�一部��。マスターステップ�一部����, index=0, logprobs=null, finish_reason=length)
+
+ProfileName=Angel
+
+Intent Default_Fallback_Intent (confidence 0) from query text "��ら��"
+
+CompletionChoice(text=も�よ���ら���ら�リスト�ら�ん�����。
+
+ProfileName=Roberto
+
+Intent saludo (confidence 0.599) from query text "Que tanto cueata"
+
+Intent costosProcesosBecas (confidence 0.607) from query text "Que tanto cuesta"
+
+ProfileName=Roberto
+
+Intent direccion (confidence 0.415) from query text "Está muy lejos de mi casa?"
+
+ProfileName=Angel
+
+Intent inicioActividades (confidence 0.596) from query text "Quien da clases?"
+
+ProfileName=Angel
+
+Intent inicioActividades (confidence 0.353) from query text "Quienes dan clase?"
+
+ProfileName=Angel
+
+Intent docentes (confidence 0.332) from query text "Quienes son los directores?"
+
+ProfileName=Angel
+
+Intent quienEres (confidence 0.552) from query text "Quien es el director?"
+
+ProfileName=Angel
+
+Intent Default_Fallback_Intent (confidence 0) from query text "Hay fiestas?"
+
+CompletionChoice(text= Si quieres puedes intentar escribir: Información sobre fecha de Recepción de documentos., index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=Ailed
+
+Intent fechaPreinscripciones (confidence 0.33) from query text "Tengo que publicar para graduarme?"
+
+ProfileName=Ailed
+
+Intent inicioActividades (confidence 0.354) from query text "Cuándo son las siguientes fechas?"
+
+ProfileName=Ailed
+
+Intent Default_Fallback_Intent (confidence 0) from query text "Cuantas vacaciones hay?"
+
+CompletionChoice(text=Si quieres, puedes intentar escribir: Información sobre movilidad., index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=Angel
+
+Intent saludo (confidence 1) from query text "hola"
+
+ProfileName=Vanessa
+
+Intent Default_Fallback_Intent (confidence 0) from query text "Presio"
+
+CompletionChoice(text= Si te interesa puedes intentar escribir: Información sobre la modalidad de los exámenes., index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=Vanessa
+
+Intent Default_Fallback_Intent (confidence 0) from query text "Ño"
+
+CompletionChoice(text=Si quieres puedes intentar escribir: Información sobre la modalidad de los exámenes., index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=Angel
+
+Intent Default_Fallback_Intent (confidence 0) from query text "hello"
+
+ProfileName=Angel
+
+Intent perfilEgreso (confidence 0.368) from query text "修士�を�得�る����件�何���？"
+
+Intent Parameters: {PPROGRAMA=""}
+
+ProfileName=Angel
+
+Intent Default_Fallback_Intent (confidence 0) from query text "who are you?"
+
+CompletionChoice(text= I'm sorry, I don't have a suggestion for you., index=0, logprobs=null, finish_reason=stop)
+
+Intent Default_Fallback_Intent (confidence 0) from query text "when are the inscriptions?"
+
+CompletionChoice(text= If you are interested, you can try to write: Information about the teachers., index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=Angel
+
+Intent docentes (confidence 0.576) from query text "Information about the teachers."
+
+ProfileName=Angel
+
+Intent Default_Fallback_Intent (confidence 0) from query text "where are you?"
+
+ProfileName=Angel
+
+Intent saludo (confidence 1) from query text "hola"
+
+ProfileName=Superman
+
+Intent saludo (confidence 0.474) from query text "Buenas"
+
+ProfileName=Superman
+
+Intent informacionGeneral (confidence 0.714) from query text "Necesito algo de información"
+
+ProfileName=Superman
+
+Intent direccion (confidence 0.458) from query text "Dónde se cursa el posgrado?"
+
+ProfileName=Superman
+
+Intent saludo (confidence 0.599) from query text "Que horarios maneja?"
+
+ProfileName=Superman
+
+Intent costosProcesosBecas (confidence 0.365) from query text "Tiene horarios?"
+
+ProfileName=Superman
+
+Intent duracionPosgrado (confidence 0.559) from query text "Cuánto tiempo toma el posgrado?"
+
+ProfileName=Superman
+
+Intent quienEres (confidence 0.442) from query text "Es diario?"
+
+ProfileName=Superman
+
+Intent direccion (confidence 0.399) from query text "Cuando se inició el posgrado?"
+
+Intent saludo (confidence 1) from query text "Buenas tardes"
+
+ProfileName=Vero
+
+Intent informacionAcercaDePosgrado (confidence 0.726) from query text "Me interesa el posgrado en ciencias de información"
+
+ProfileName=Vero
+
+Intent planEstudios (confidence 0.511) from query text "Me puede decir acerca del plan de estudios"
+
+Intent Parameters: {PPROGRAMA=""}
+
+ProfileName=Arianna+Parra
+
+Intent saludo (confidence 1) from query text "Hola buen día"
+
+ProfileName=Arianna+Parra
+
+Intent duracionPosgrado (confidence 0.308) from query text "Me gustaría obtener información sobre el plan de estudiosn"
+
+ProfileName=Arianna+Parra
+
+Intent costosProcesosBecas (confidence 0.416) from query text "Que costo esta manejando"
+
+ProfileName=Arianna+Parra
+
+Intent direccion (confidence 0.771) from query text "Y donde estan ubicados"
+
+ProfileName=Vero
+
+Intent duracionPosgrado (confidence 0.63) from query text "Que duración tiene el posgrado"
+
+ProfileName=Vero
+
+Intent costosProcesosBecas (confidence 0.532) from query text "Que costo tiene"
+
+Intent direccion (confidence 0.382) from query text "El posgrado es en Mazatlán"
+
+ProfileName=Arianna+Parra
+
+Intent direccion (confidence 0.408) from query text "El posgrado es en cualiacan ?"
+
+ProfileName=Arianna+Parra
+
+Intent tienenBeca (confidence 0.922) from query text "Manejan beca"
+
+ProfileName=Vero
+
+Intent tienenBeca (confidence 0.894) from query text "Incluye alguna beca"
+
+ProfileName=Arianna+Parra
+
+Intent saludo (confidence 0.599) from query text "Que horario manejan"
+
+ProfileName=Arianna+Parra
+
+Intent tienenBeca (confidence 0.345) from query text "Tienen algún otra maestría"
+
+ProfileName=Vero
+
+Intent informacionAcercaDePosgrado (confidence 0.663) from query text "Este posgrado es sólo para la carrera de Ciencias de la información"
+
+ProfileName=Arianna+Parra
+
+Intent ofrecerAyuda (confidence 1) from query text "Gracias"
+
+ProfileName=Vero
+
+Intent informacionMovilidad (confidence 0.471) from query text "En la Uas existe alguna otra carrera que tenga posgrado"
+
+ProfileName=Omar+Garc%C3%ADa
+
+Intent saludo (confidence 1) from query text "Buenas tardes"
+
+ProfileName=Omar+Gar21:36:37.075 [pool-3-thread-1] WARN   - Unknown query content encoding
+
+Intent saludo (confidence 0.599) from query text "Que horarios manejan"
+
+ProfileName=Omar+Garc%C3%ADa
+
+Intent guiasExamen (confidence 0.473) from query text "Tienes alguna promoción?"
+
+ProfileName=Omar+Garc%C3%ADa
+
+Intent Default_Fallback_Intent (confidence 0) from query text "Horarios?"
+
+CompletionChoice(text=Si te interesa puedes intentar escribir: Datos de Contacto, index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=Omar+Garc%C3%ADa
+
+Intent datosDeContacto (confidence 1) from query text "Datos de contacto"
+
+ProfileName=Omar+Garc%C3%ADa
+
+Intent costosProcesosBecas (confidence 0.365) from query text "Qie ubicación tiene?"
+
+ProfileName=Omar+Garc%C3%ADa
+
+Intent tienenBeca (confidence 0.918) from query text "Becas??"
+
+ProfileName=Omar+Garc%C3%ADa
+
+Intent duracionPosgrado (confidence 0.75) from query text "Cuanto tiempo dura?"
+
+ProfileName=Omar+Garc%C3%ADa
+
+Intent costosProcesosBecas (confidence 0.671) from query text "Costos?"
+
+ProfileName=Omar+Garc%C3%ADa
+
+Intent lineasInvestigacion (confidence 0.698) from query text "Líneas de investigación?"
+
+ProfileName=Omar+Garc%C3%ADa
+
+Intent Default_Fallback_Intent (confidence 0) from query text "Calidad?"
+
+CompletionChoice(text= Si quieres puedes intentar escribir: ¿Cuál es la calidad del programa de maestría?, index=0, logprobs=null, finish_reason=stop)
+
+ProfileName=Omar+Garc%C3%ADa
+
+Intent ofrecerAyuda (confidence 1) from query text "Si"
+
+ProfileName=Omar+Garc%C3%ADa
+
+Intent perfilEgreso (confidence 0.377) from query text "Cual es la calidad del programa de maestría?"
+
+Intent Parameters: {PPROGRAMA="maestria"}
+
+ProfileName=Omar+Garc%C3%ADa
+
+Intent planEstudios (confidence 0.546) from query text "Cual es la calidad del programa de doctorado?"
+
+Intent Parameters: {PPROGRAMA="doctorado"}
+
+ProfileName=Omar+Garc%C3%ADa
+
+Intent perfilEgreso (confidence 0.372) from query text "Mapa curricular del programa de maestría"
+
+Intent Parameters: {PPROGRAMA="maestria"}
+
+ProfileName=Angel
+
+Intent saludo (confidence 1) from query text "hola"
